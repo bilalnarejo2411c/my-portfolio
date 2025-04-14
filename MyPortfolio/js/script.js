@@ -135,14 +135,14 @@ document.addEventListener('DOMContentLoaded', function() {
     const skills = [
         {"name": "HTML", "percentage": 95, "icon": "devicon-html5-plain colored"},
         {"name": "CSS", "percentage": 90, "icon": "devicon-css3-plain colored"},
-        {"name": "JavaScript", "percentage": 85, "icon": "devicon-javascript-plain colored"},
-        {"name": "React", "percentage": 80, "icon": "devicon-react-original colored"},
-        {"name": "Node.js", "percentage": 45, "icon": "devicon-nodejs-plain colored"},
-        {"name": "Express.js", "percentage": 45, "icon": "devicon-express-original colored"},
-        {"name": "D3.js", "percentage": 70, "icon": "devicon-d3js-plain colored"},
-        {"name": "Bootstrap", "percentage": 70, "icon": "devicon-bootstrap-plain colored"},
-        {"name": "Tailwind CSS", "percentage": 70, "icon": "devicon-tailwindcss-plain colored"},
-        {"name": "Python", "percentage": 45, "icon": "devicon-python-plain colored"}
+        {"name": "JavaScript", "percentage": 50, "icon": "devicon-javascript-plain colored"},
+        // {"name": "React", "percentage": 80, "icon": "devicon-react-original colored"},
+        // {"name": "Node.js", "percentage": 45, "icon": "devicon-nodejs-plain colored"},
+        // {"name": "Express.js", "percentage": 45, "icon": "devicon-express-original colored"},
+        // {"name": "D3.js", "percentage": 70, "icon": "devicon-d3js-plain colored"},
+        {"name": "Bootstrap", "percentage": 50, "icon": "devicon-bootstrap-plain colored"},
+        // {"name": "Tailwind CSS", "percentage": 70, "icon": "devicon-tailwindcss-plain colored"},
+        // {"name": "Python", "percentage": 45, "icon": "devicon-python-plain colored"}
     ];
     
     // Tools data
@@ -150,15 +150,15 @@ document.addEventListener('DOMContentLoaded', function() {
         {"name": "HTML", "icon": "devicon-html5-plain colored"},
         {"name": "CSS", "icon": "devicon-css3-plain colored"},
         {"name": "JavaScript", "icon": "devicon-javascript-plain colored"},
-        {"name": "React", "icon": "devicon-react-original colored"},
-        {"name": "Node.js", "icon": "devicon-nodejs-plain colored"},
-        {"name": "Express.js", "icon": "devicon-express-original colored"},
-        {"name": "D3.js", "icon": "devicon-d3js-plain colored"},
+        // {"name": "React", "icon": "devicon-react-original colored"},
+        // {"name": "Node.js", "icon": "devicon-nodejs-plain colored"},
+        // {"name": "Express.js", "icon": "devicon-express-original colored"},
+        // {"name": "D3.js", "icon": "devicon-d3js-plain colored"},
         {"name": "Bootstrap", "icon": "devicon-bootstrap-plain colored"},
-        {"name": "Tailwind CSS", "icon": "devicon-tailwindcss-plain colored"},
-        {"name": "Python", "icon": "devicon-python-plain colored"},
+        // {"name": "Tailwind CSS", "icon": "devicon-tailwindcss-plain colored"},
+        // {"name": "Python", "icon": "devicon-python-plain colored"},
         {"name": "GitHub", "icon": "devicon-github-original colored"},
-        {"name": "Replit", "icon": "devicon-replit-original colored"},
+        // {"name": "Replit", "icon": "devicon-replit-original colored"},
         {"name": "VS Code", "icon": "devicon-vscode-plain colored"}
     ];
     
