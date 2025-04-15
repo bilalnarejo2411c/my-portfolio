@@ -164,13 +164,13 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Social media links
     const socialLinks = [
-        {"platform": "WhatsApp", "icon": "fab fa-whatsapp", "link": "https://wa.me/+2766119925"},
+        {"platform": "WhatsApp", "icon": "fab fa-whatsapp", "link": "https://wa.me/+923303188242"},
         {"platform": "Facebook", "icon": "fab fa-facebook-f", "link": "https://facebook.com/2jonathanpeters"},
-        {"platform": "Twitter", "icon": "fab fa-twitter", "link": "https://twitter.com/DJJonnas85"},
+        // {"platform": "Twitter", "icon": "fab fa-twitter", "link": "https://twitter.com/DJJonnas85"},
         {"platform": "LinkedIn", "icon": "fab fa-linkedin-in", "link": "https://linkedin.com/in/2jonathanpeters"},
         {"platform": "Instagram", "icon": "fab fa-instagram", "link": "https://instagram.com/jonathanpeters"},
-        {"platform": "GitHub", "icon": "fab fa-github", "link": "https://github.com/QMS85"},
-        {"platform": "Replit", "icon": "devicon-replit-plain", "link": "https://replit.com/DJJonnas85"}
+        {"platform": "GitHub", "icon": "fab fa-github", "link": "https://github.com/bilalnarejo2411c"},
+        // {"platform": "Replit", "icon": "devicon-replit-plain", "link": "https://replit.com/DJJonnas85"}
     ];
 
     // Rendering functions
